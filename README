@@ -1,0 +1,5 @@
+Python Opencv examples
+
+
+001. Camera capture stream
+    Simple camera capture stream using OpenCV and USB camera.
