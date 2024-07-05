@@ -1,4 +1,4 @@
-__Python Opencv examples__
+**Python Opencv examples**
 
 
 __001. Camera capture stream__
