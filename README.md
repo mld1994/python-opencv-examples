@@ -6,3 +6,5 @@ __001. Camera capture stream__
 
 __002. YOLO Object detection__
     Simple object detection example using opencv and YOLO.
+__003-Face recognition__
+    Opencv face recognition.
